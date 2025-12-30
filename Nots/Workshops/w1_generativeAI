@@ -1,0 +1,31 @@
+OpenAI GPT-1 2018 yılında 117M parametre ile çalışan ilk büyük dil modeliydi
+GPT-2 ise 2019 yılında 1.5B parametre ile eğitilirek yayınlandı. İlk başta kötüye kullanım riskleri sebebiyle tam yayınlanmıyor
+GPT-3 ise 2020 yılında 175B parametre ile üretken metin modelleri halka açılıyor
+
+2021 -> DALL-E ile metinden görsel üretime geçiliyor
+2021 -> CLIP modeli ise görsel ve metni birlikte anlayan bir modeldi
+
+2022 -> Stable Diffusion ve Midjourney gibi açık kaynaklı ve yaratıcı görsel modeller ortaya çıkıyor
+
+2022 Kasım -> GPT-3.5 ile yapay zeka ana akımda ilgi topladı
+-> 5 gün içinde 1 milyon kullanıcıya ulaşıyor
+-> 2 ayda 100 milyon aktif kullanıcı
+-> Günde 10+ milyon sohbet başladı
+
+2023-> GPT-4 ile çoklu dildesteği ile diğer dillerde de öğrenme anlama oranı arttı.
+
+2025-> GPT-5 artık derin düşünebiliyor, karmaşık görevleri zincirleme çözebiliyor
+
+Halüsinasyon -> Yanlış üretilen bilgiyi AI doğru olarak yayınlaması durumu
+
+Makine öğrenmesi -> Derin öğrenme -> üretken yapay zeka
+
+Generative AI -> Verilerdeki kalıpları ve ilişkileri anlayarak yeni bilgiler üretmeye çalışır.
+	GAN(Generatif Adversarial Ağlar)
+	Tranformer(Dönüştürücü modeller)
+	Difüzyon modelleri
+generative ai kısmında kullanılan başlıca algoritma, mimari yapılarıdır.
+
+
+
+
