@@ -1,0 +1,8 @@
+How ai earns ? 
+1)Collect data
+2)Identify patterns
+3)Generate output
+4)Receive feedback
+5)Update the model
+
+Ambient AI -> Sohbet robotları gibi açık komut gerektirmeyen; insanların varlığına duyarlı, tepki veren ve uyum saplayan sistemlerdir. Otonom sürüş bunun en güzel örnekleirndendir.
