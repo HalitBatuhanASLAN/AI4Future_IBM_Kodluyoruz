@@ -1,0 +1,12 @@
+1950 yılında Alan Turing tarfından Makineler Düşünebilir mi ? sorusu ortaya atıldı.
+Ardından bir makinein zekasını ölçebilmek için Turing testini buldu.
+
+1966 yılında ilk Chatbot olan ELIZA ortaya çıktı, insanlar onun bir makine olduğunu anlayamıyordu ve insanlarla basit psikoterapi üzerine konuşabiliyordu.
+
+1997 yılında IBM'in Deep Blue isimli bilgisayarı dünya satranç şampiyonunu yendi.
+
+2011 yılında Apple sesli asistanı Siriyi tanıttı.
+
+2016 yılında Google DeepMind ürünü olan AlphaGo, satrançtan daha karmaşık olan Go oyununda dünya şampiyonu olarak, yapay zekanın sezgi benzeri yetenekelrinin olduğunu da ortaya çıkarttı.
+
+
