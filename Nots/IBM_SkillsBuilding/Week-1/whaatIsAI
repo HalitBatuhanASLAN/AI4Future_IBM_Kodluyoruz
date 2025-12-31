@@ -1,0 +1,22 @@
+1920li yıllarda Çek yazar Karel Capek robot kelimesini icat etmiştir.
+
+1950lerde Alan Turing, Turing testini ortaya çıkartmıştır. Test eğer bir insan karşısındakini görmeden(telefonla mesajlaşıyor gibi) bir iletişime geçer ve bunun makine olduğunu anlayamıyorsa makine testi geçmiş demektir.
+
+1956da Dartmouth üniversitesinde modern yapay zeka alanı oluşmaya başlamıştır.
+
+Eliza bunu başarıyla geçen ilk programdır.
+
+HI -> Human intelligance
+
+Yapay zeka türleri;
+	Zayıf yapay zeka: Belli bir çerçevede belirlenmiş işleri yapabilenlere denir. Örneğin sohbet robotları, STT vb. motorlar.
+	Artırılmış zeka: İnsanların işlerinde daha hızlı ve akıllı karar almalarında yardımcı olanlara denir. Bir hastalığın tedavisini seçmez fakat sağlık uzmanına önerilerde bulunur.
+	Genel yapay zeka: Henüz icat edilmedi(en azından piyasaya sürülmedi). Farklı konularda karar verebilen "tam bir beyin sinülasyonu" olması hedeflenen, birnevi bilim kurgu filmlerinde gördüğümüz yapay zekalardır.
+
+Yapay zeka: İnsan zekası ile ilişkilendirilen yetenekleri kullanan makineleri tanımlamada kullanılır.
+Makine öğrenimi: Algoritmaları kullanarak eldeki veriler üzerinden öğrenmeyi(aslında ilişkileri anlayıp otaya bir formül koyar) ya da başka bir deyişle ezberlemeyi sağlar.
+Derin öğrenme: Ml'in bir alt dalıdır. İnsan beyninden ilham alarak yapay sinir ağları ile yeni algoritmaları kullanır. Araçlarda bir yayayı trafik ışığından ayırmada bu vardır.
+
+NLP(Natural Language Processing): İnsan dilini konuluşduğu şekilde anlayabilme yeteneğine verilen addır.
+
+
